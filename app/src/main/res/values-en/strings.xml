@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BOB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <!-- DeviceDetailActivity -->
+    <string name="unit_pt">physiotherapy unit</string>
+    <string name="unit_music">music</string>
+    
+    <string name="dialog_title_device_no_connect">disconnection</string>
+    <string name="dialog_msg_device_no_connect">The bluetooth device has been disconnected,please reconnet!</string>
+
+    <!-- MainActivity -->
+    <string name="rb_search">search</string>
+    <string name="rb_setting">settings</string>
+    
+    <!-- MusicDetailActivity -->
+    <string name="no_lrc">No lyrics</string>
+    <string name="show_lrc">show lyrics</string>
+    <string name="hide_lrc">hide lyrics</string>
+    <string name="play_single">single cycle</string>
+    <string name="play_random">random broadcast</string>
+    <string name="play_ciecle">order broadcast</string>
+    
+    <!-- BOBAdapter -->
+    <string name="del">del</string>
+    <string name="connected">connected</string>
+    <string name="no_connected">not connected</string>
+    <string name="dialog_title_device_delete">remove device</string>
+    <string name="dialog_msg_device_delete">Be sure to delete this device？</string>
+    <string name="dialog_done_device_delete">sure</string>
+    <string name="dialog_cancle_device_delete">cancle</string>
+    
+    <!-- FragBOB -->
+    <string name="connecting">connecting</string>
+    <string name="is_connect_success">Connect successfully</string>
+    <string name="is_connect_failed">The connection failed,please keep the device in the effective range.</string>
+    
+    <!-- FragPt -->
+    <string name="unit_zhenjiu">acupuncture unit</string>
+    <string name="unit_anmo">massage unit</string>
+    <string name="unit_liliao">physiotherapy unit</string>
+    <string name="unit_yueliao">musictherapy unit</string>
+    <string name="intensity">intensity setting</string>
+    <string name="frequency">frequency setting</string>
+    <string name="clock">clock setting</string>
+    <string name="rb_zhenjiu">acupuncture</string>
+    <string name="rb_anmo">massage</string>
+    <string name="rb_liliao">physiotherapy</string>
+    <string name="rb_yueliao">musictherapy</string>
+    <string name="intensity_max">max intensity</string>
+    <string name="intensity_min">min intensity</string>
+    <string name="hz_max">max frequency</string>
+    <string name="hz_min">min frequency</string>
+    <string name="btn_open">open</string>
+    <string name="btn_close">close</string>
+
+    <!-- FragSearch -->
+    <string name="search_device">search device</string>
+    <string name="search">search</string>
+    
+    <!-- FragSetting -->
+    <string name="setting">setting</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="USB_CONNECTION_AUTO">USB auto-connect</string>
+    <string name="style">style</string>
+    <string name="languages">languages</string>
+    <string name="text_size">text size</string>
+    <string name="connect_type">connection type</string>
+    <string name="version">version</string>
+    <string name="about">about</string>
+    
+    <string name="auto_on">auto on</string>
+    <string name="auto_off">auto off</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>

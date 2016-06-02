@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BOB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <!-- DeviceDetailActivity -->
+    <string name="unit_pt">理疗单元</string>
+    <string name="unit_music">音乐</string>
+    
+    <string name="dialog_title_device_no_connect">连接断开</string>
+    <string name="dialog_msg_device_no_connect">当前蓝牙设备已断开，请重新连接！</string>
+
+    <!-- MainActivity -->
+    <string name="rb_search">搜索</string>
+    <string name="rb_setting">设置</string>
+    
+    <!-- MusicDetailActivity -->
+    <string name="no_lrc">暂无歌词</string>
+    <string name="show_lrc">显示歌词</string>
+    <string name="hide_lrc">隐藏歌词</string>
+    <string name="play_single">单曲循环</string>
+    <string name="play_random">随机播放</string>
+    <string name="play_ciecle">顺序播放</string>
+    
+    <!-- BOBAdapter -->
+    <string name="del">删除</string>
+    <string name="connected">已连接</string>
+    <string name="no_connected">未连接</string>
+    <string name="dialog_title_device_delete">删除设备</string>
+    <string name="dialog_msg_device_delete">确定要删除此设备么？</string>
+    <string name="dialog_done_device_delete">确定</string>
+    <string name="dialog_cancle_device_delete">取消</string>
+    
+    <!-- FragBOB -->
+    <string name="connecting">正在连接设备</string>
+    <string name="is_connect_success">连接成功！</string>
+    <string name="is_connect_failed">连接失败，请保持设备在有效范围后重新连接</string>
+    
+    <!-- FragPt -->
+    <string name="unit_zhenjiu">针灸单元</string>
+    <string name="unit_anmo">按摩单元</string>
+    <string name="unit_liliao">理疗单元</string>
+    <string name="unit_yueliao">乐疗单元</string>
+    <string name="intensity">强度设置</string>
+    <string name="frequency">频率设置</string>
+    <string name="clock">定时设置</string>
+    <string name="rb_zhenjiu">针灸</string>
+    <string name="rb_anmo">按摩</string>
+    <string name="rb_liliao">理疗</string>
+    <string name="rb_yueliao">乐疗</string>
+    <string name="intensity_max">已经是最高强度了</string>
+    <string name="intensity_min">已经是最低强度了</string>
+    <string name="hz_max">已经是最高频率了</string>
+    <string name="hz_min">已经是最低频率了</string>
+    <string name="btn_open">打开</string>
+    <string name="btn_close">关闭</string>
+
+    <!-- FragSearch -->
+    <string name="search_device">搜索设备</string>
+    <string name="search">搜索</string>
+    
+    <!-- FragSetting -->
+    <string name="setting">设置</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="USB_CONNECTION_AUTO">USB产品自动连接</string>
+    <string name="style">风格</string>
+    <string name="languages">多语言</string>
+    <string name="text_size">字体大小</string>
+    <string name="connect_type">连接方式</string>
+    <string name="version">版本更新</string>
+    <string name="about">关于我们</string>
+    
+    <string name="auto_on">自动</string>
+    <string name="auto_off">手动</string>
+    
+    
+    <!-- AboutActivity -->
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>

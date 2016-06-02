@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tran">#00000000</color>
+    <color name="tran_black">#e6000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="txt_black">#333333</color>
+
+    <color name="gray">#565656</color>
+    <color name="gray_dark">#232323</color>
+    <color name="gray_light">#898989</color>
+
+    <color name="divider_gray">#999999</color>
+
+    <color name="green">#3ad168</color>
+    <color name="green_light">#cdebd6</color>
+
+    <color name="bg_frag">#f2f2f2</color>
+
+    <color name="bg_bottom">#252525</color>
+
+    <color name="red">#e60012</color>
+
+    <color name="color_main">#00d1db</color>
+    <color name="color_grey">#909090</color>
+    <color name="color_main_light">#9ffcfe</color>
+    <color name="orange">#ff9500</color>
+</resources>
