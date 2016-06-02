@@ -1,11 +1,6 @@
 package com.ywhyw.bob.activity;
 
 
-import com.ywhyw.bob.R;
-import com.ywhyw.bob.fragment.FragMusic;
-import com.ywhyw.bob.fragment.FragPt;
-import com.ywhyw.bob.util.Constants;
-
 import android.app.AlertDialog;
 import android.bluetooth.BluetoothA2dp;
 import android.bluetooth.BluetoothAdapter;
@@ -16,6 +11,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.pm.ActivityInfo;
+import android.media.AudioManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.IBinder;
@@ -29,8 +25,13 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
+import com.ywhyw.bob.R;
+import com.ywhyw.bob.fragment.FragMusic;
+import com.ywhyw.bob.fragment.FragPt;
+import com.ywhyw.bob.util.Constants;
 import java.lang.reflect.Method;
+
+import static java.security.AccessController.getContext;
 
 public class DeviceDetailActivity extends FragmentActivity implements OnClickListener, Constants {
 
